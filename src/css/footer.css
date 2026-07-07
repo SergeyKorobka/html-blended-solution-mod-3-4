@@ -104,6 +104,8 @@
   line-height: 1.18;
   letter-spacing: 0.03em;
   color: #b4b7ba;
+
+  transition: color 250ms ease-in-out;
 }
 
 .footer-privacy:hover,
